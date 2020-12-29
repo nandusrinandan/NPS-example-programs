@@ -1,0 +1,7 @@
+The following excercises were done on Telnet:
+
+1. Setup an IEEE 802.3 network with a) hub b) switch c) Hierarchy of switch. Apply the FTP, Telnet applications between nodes. Vary the number of nodes. Vary the bandwidth, queue size and observe the packet drop probability.  
+2. Setup a wireless sensor networks with atleast two device co-coordinators and nodes. Provide Constant Bit Rate (CBR), Variable Bit Rate (VBR) application between several nodes. Increase the number of co-coordinators and nodes in the same area and observe the performance at physical and MAC layers.
+3. Setup an IEEE 802.11 network with at least two access points. Apply the CBR, VBR applications between devices belonging to same access points and different access points. Provide roaming of any device. Vary the number of access points and devices. Find out the delay in MAC layer, packet drop probability.
+
+The output of these were screenshotted and attached.
